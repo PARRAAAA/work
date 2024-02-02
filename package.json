@@ -1,0 +1,15 @@
+{
+  "name": "wad-302-ejs-server-cookie-bcrypt-parraaaa",
+  "version": "1.0.0",
+  "description": "1. **Setup Server with EJS:**\r    - Configure your server to use EJS as the view engine.\r    - Define the directories for static files and EJS templates.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9"
+  }
+}
